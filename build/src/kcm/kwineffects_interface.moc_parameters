@@ -1,0 +1,7 @@
+-I/home/xiyan/Desktop/kwin-effects-yet-another-magic-lamp-master/src/kcm
+-I/home/xiyan/Desktop/kwin-effects-yet-another-magic-lamp-master/build/src/kcm
+-D_GNU_SOURCE
+-D_LARGEFILE64_SOURCE
+-o
+/home/xiyan/Desktop/kwin-effects-yet-another-magic-lamp-master/build/src/kcm/kwineffects_interface.moc
+/home/xiyan/Desktop/kwin-effects-yet-another-magic-lamp-master/build/src/kcm/kwineffects_interface.h
